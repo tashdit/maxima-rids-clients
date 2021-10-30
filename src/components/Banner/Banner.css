@@ -3,11 +3,10 @@
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: calc(100vh - 70px);
-  background: url("../../img/banner.webp") center center;
+  height: calc(100vh - 10px);
+  background: url("../../img/unnamed.jpg") center center;
   background-size: cover;
   position: relative;
-  margin-top: 70px;
   padding: 0;
 }
 #hero:before {

@@ -1,0 +1,26 @@
+.detain-box{
+    width: 50%;
+    margin: 150px auto;
+    text-align: center;
+    border: 2px solid wheat;
+    
+}
+
+.detain-box img{
+    width: 100%;
+    height: 550px;
+}
+.detain-box h2{
+    font-size: 20px;
+}
+.detain-box h2 span{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.detain-box h3{
+    font-size: 20px;
+}
+
+button.btn.btn-warning {
+    margin-bottom: 30px;
+}

@@ -22,23 +22,23 @@ const Footer = () => {
                 <h4>Useful Links</h4>
                 <ul>
                   <li>
-                    <i className="bx bx-chevron-right"></i> <a href="#">Home</a>
+                    <i className="bx bx-chevron-right"></i> <a href="/">Home</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">About us</a>
+                    <a href="/">About us</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Services</a>
+                    <a href="/">Services</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Terms of service</a>
+                    <a href="/">Terms of service</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Privacy policy</a>
+                    <a href="/">Privacy policy</a>
                   </li>
                 </ul>
               </div>
@@ -48,23 +48,23 @@ const Footer = () => {
                 <ul>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Web Design</a>
+                    <a href="/">Web Design</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Web Development</a>
+                    <a href="/">Web Development</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Product Management</a>
+                    <a href="/">Product Management</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Marketing</a>
+                    <a href="/">Marketing</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
-                    <a href="#">Graphic Design</a>
+                    <a href="/">Graphic Design</a>
                   </li>
                 </ul>
               </div>

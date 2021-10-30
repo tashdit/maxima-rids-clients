@@ -5,10 +5,10 @@ const Banner = () => {
     <div>
       <section
         id="hero"
-        class="d-flex flex-column justify-content-center align-items-center"
+        className="d-flex flex-column justify-content-center align-items-center"
       >
-        <div class="container text-center text-md-left" data-aos="fade-up">
-          <h1>Welcome to Maxim Libery</h1>
+        <div className="container text-center text-md-left" data-aos="fade-up">
+          <h1>Welcome to Maxim Books Park</h1>
           <h2>
             We are team of talented designers making websites with Bootstrap
           </h2>
