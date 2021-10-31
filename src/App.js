@@ -9,6 +9,8 @@ import Registar from "./components/Registar/Registar";
 import AuthProvider from "./components/context/AuthProvider";
 import PrivateRouter from "./components/PrivateRouter/PrivateRouter";
 import MyRides from "./components/MyRides/MyRides";
+import ManageAllOrders from "./components/ManageAllOrders/ManageAllOrders";
+import AddService from "./components/AddService/AddService";
 
 function App() {
   return (
@@ -25,11 +27,17 @@ function App() {
             <Route path="/about">
               <About></About>
             </Route>
+            <Route path="/addService">
+              <AddService></AddService>
+            </Route>
             <PrivateRouter path="/OrderPlace/:bookId">
               <OrderPlace></OrderPlace>
             </PrivateRouter >
             <Route path="/MyRids">
               <MyRides></MyRides>
+            </Route>
+            <Route path="/ManageOrders">
+              <ManageAllOrders></ManageAllOrders>
             </Route>
             <Route path="/login">
               <Login></Login>

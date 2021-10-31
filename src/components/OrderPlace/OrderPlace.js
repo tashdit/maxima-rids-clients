@@ -15,9 +15,9 @@ const OrderPlace = () => {
 
 
     useEffect(() => {
-        fetch('/orderBooks.json')
+        fetch('http://localhost:5000/rides')
             .then(res => res.json())
-            .then(data => setOrderBooks(data.books))
+            .then(data => setOrderBooks(data))
     }, [])
 
 
@@ -35,7 +35,7 @@ const OrderPlace = () => {
         <div>
             <Header></Header>
             <div className="detain-box">
-                <img src={singlnOrder?.picture} alt="" />
+                <img src={singlnOrder?.img} alt="" />
                 <h2>Name: <span> {singlnOrder?.name}</span></h2>
                 <h2>Price: <span> {singlnOrder?.price}</span></h2>
                 <h4>Details: <span>{singlnOrder?.about}</span></h4>
