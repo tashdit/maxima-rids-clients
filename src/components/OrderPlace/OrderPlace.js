@@ -15,7 +15,7 @@ const OrderPlace = () => {
 
 
     useEffect(() => {
-        fetch('http://localhost:5000/rides')
+        fetch('https://ghostly-vault-73275.herokuapp.com/rides')
             .then(res => res.json())
             .then(data => setOrderBooks(data))
     }, [])

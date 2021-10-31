@@ -9,7 +9,8 @@ const AddService = () => {
     } = useForm();
     const onSubmit = data => {
         console.log(data);
-        axios.post('http://localhost:5000/rides', data)
+        // http://localhost:5000/rides
+        axios.post('https://ghostly-vault-73275.herokuapp.com/rides', data)
             .then(res => {
                 if (res.data.insertedId) {
                     alert('added Succesfully')
