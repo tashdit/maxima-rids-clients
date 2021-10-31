@@ -8,7 +8,7 @@ const Gallery = () => {
           <div class="container">
             <div class="section-title" data-aos="fade-up">
               <h2>Gallery</h2>
-              <p>Check our Book Gallery</p>
+              <p>Check our Rids Gallery</p>
             </div>
 
             <div class="row no-getters" data-aos="fade-left">
@@ -17,7 +17,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://image.shutterstock.com/image-illustration/quran-books-open-islamic-religion-260nw-1938397261.jpg`}
+                    src={`https://image.shutterstock.com/image-photo/swing-carousel-park-children-260nw-279413759.jpg`}
                     class="img-fluid"
                     alt=""
                   />
@@ -28,7 +28,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500`}
+                    src={`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKXqmgOL8H0bvKmrQNiJwy9vSMOpecmDd4w&usqp=CAU`}
                     class="img-fluid"
                     alt=""
                   />
@@ -39,7 +39,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://media.istockphoto.com/photos/many-hardbound-books-background-selective-focus-picture-id1209683444?k=20&m=1209683444&s=612x612&w=0&h=apRHyEOnUCQ7gXkIChHTyixwezHZ4Bm6tDyr7zwu32Y=`}
+                    src={`https://cdn.cdnparenting.com/articles/2018/06/425739265-H-1024x700.jpg`}
                     class="img-fluid"
                     alt=""
                   />
@@ -50,7 +50,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2eKLB44_Y3YynInNzyo94AXoB2mvBjazCg&usqp=CAU`}
+                    src={`https://www.bookmyballoons.in/wp-content/uploads/2018/09/0_500PCS-Packing-Party-Balloons-Shooting-Water-Bomb-Balls-Large-Size-Baloon-Outdoor-Birthday-Party-Decorations-Kids-1.jpg`}
                     class="img-fluid"
                     alt=""
                   />
@@ -61,7 +61,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://media.istockphoto.com/photos/small-heart-and-books-picture-id1254825698?b=1&k=20&m=1254825698&s=170667a&w=0&h=8baPqEfIKNwmyRefowMyrFKAhpG5trM-BR_TZTF3a1c=`}
+                    src={`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJB_cVVMCA9jHx-ZcKuIc3_QxktWTLwHnqrg&usqp=CAU`}
                     class="img-fluid"
                     alt=""
                   />
@@ -72,7 +72,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://image.shutterstock.com/image-photo/many-old-books-book-shop-260nw-269516258.jpg`}
+                    src={`https://littletikescommercial.com/wp-content/uploads/2020/09/Blog-fun-games-to-play-scaled.jpg`}
                     class="img-fluid"
                     alt=""
                   />
@@ -83,7 +83,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1wA45y-8-4hT4UX_2U4dNqpL1mL_ZASqlvu-5DASkNkLLjqyVbly0-1J0lLYJd-nTaA&usqp=CAU`}
+                    src={`https://cdn.cdnparenting.com/articles/2018/06/418806355-H-1024x700.jpg`}
                     class="img-fluid"
                     alt=""
                   />
@@ -94,7 +94,7 @@ const Gallery = () => {
                   class="gallery-item"
                 >
                   <img
-                    src={`https://media.istockphoto.com/photos/books-picture-id949118068?k=20&m=949118068&s=612x612&w=0&h=e8tiaCdluEA9IS_I7ytStcx--toLbovf3U74v-LfNAk=`}
+                    src={`https://i.ytimg.com/vi/x_hbFvYGH1k/hqdefault.jpg`}
                     class="img-fluid"
                     alt=""
                   />

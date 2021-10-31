@@ -8,6 +8,7 @@ import Login from "./components/Login/Login";
 import Registar from "./components/Registar/Registar";
 import AuthProvider from "./components/context/AuthProvider";
 import PrivateRouter from "./components/PrivateRouter/PrivateRouter";
+import MyRides from "./components/MyRides/MyRides";
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
             <PrivateRouter path="/OrderPlace/:bookId">
               <OrderPlace></OrderPlace>
             </PrivateRouter >
+            <Route path="/MyRids">
+              <MyRides></MyRides>
+            </Route>
             <Route path="/login">
               <Login></Login>
             </Route>
