@@ -6,8 +6,8 @@ server site :https://github.com/programming-hero-web-course1/tourism-or-delivery
 
 5 Good site of this website
 
--This is theme park website
--You can Purchess any rides from this side
--Our park have a better enjoyable enverment 
--You can span your holyday in our park
+- This is theme park website
+- You can Purchess any rides from this side
+- Our park have a better enjoyable enverment 
+- You can span your holyday in our park
 - Our website is user friendly
